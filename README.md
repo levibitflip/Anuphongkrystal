@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anuphong
-- 👀 I’m interested in python
+- 👀 I’m interested in pentest
 - 🌱 I’m currently learning perl language
 - 💞️ I’m looking to collaborate on 404
 - 📫 How to reach me anuphongforwork@gmail.com
